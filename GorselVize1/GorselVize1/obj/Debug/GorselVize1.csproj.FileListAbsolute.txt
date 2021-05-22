@@ -1,0 +1,9 @@
+C:\Users\acer\source\repos\GorselVize1\GorselVize1\bin\Debug\GorselVize1.exe.config
+C:\Users\acer\source\repos\GorselVize1\GorselVize1\bin\Debug\GorselVize1.exe
+C:\Users\acer\source\repos\GorselVize1\GorselVize1\bin\Debug\GorselVize1.pdb
+C:\Users\acer\source\repos\GorselVize1\GorselVize1\obj\Debug\GorselVize1.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\GorselVize1\GorselVize1\obj\Debug\GorselVize1.Form1.resources
+C:\Users\acer\source\repos\GorselVize1\GorselVize1\obj\Debug\GorselVize1.Properties.Resources.resources
+C:\Users\acer\source\repos\GorselVize1\GorselVize1\obj\Debug\GorselVize1.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\GorselVize1\GorselVize1\obj\Debug\GorselVize1.exe
+C:\Users\acer\source\repos\GorselVize1\GorselVize1\obj\Debug\GorselVize1.pdb
