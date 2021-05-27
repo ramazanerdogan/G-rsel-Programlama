@@ -1,0 +1,9 @@
+D:\notepad_programi\notepad_programi\bin\Release\notepad_programi.exe
+D:\notepad_programi\notepad_programi\bin\Release\notepad_programi.pdb
+D:\notepad_programi\notepad_programi\obj\x86\Release\ResolveAssemblyReference.cache
+D:\notepad_programi\notepad_programi\obj\x86\Release\notepad_programi.Form1.resources
+D:\notepad_programi\notepad_programi\obj\x86\Release\notepad_programi.Properties.Resources.resources
+D:\notepad_programi\notepad_programi\obj\x86\Release\GenerateResource.read.1.tlog
+D:\notepad_programi\notepad_programi\obj\x86\Release\GenerateResource.write.1.tlog
+D:\notepad_programi\notepad_programi\obj\x86\Release\notepad_programi.exe
+D:\notepad_programi\notepad_programi\obj\x86\Release\notepad_programi.pdb

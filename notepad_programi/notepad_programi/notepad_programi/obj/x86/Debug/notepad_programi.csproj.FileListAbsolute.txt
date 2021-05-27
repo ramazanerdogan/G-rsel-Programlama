@@ -1,0 +1,28 @@
+c:\users\lab-2\documents\visual studio 2010\Projects\notepad_programi\notepad_programi\bin\Debug\notepad_programi.exe
+c:\users\lab-2\documents\visual studio 2010\Projects\notepad_programi\notepad_programi\bin\Debug\notepad_programi.pdb
+c:\users\lab-2\documents\visual studio 2010\Projects\notepad_programi\notepad_programi\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lab-2\documents\visual studio 2010\Projects\notepad_programi\notepad_programi\obj\x86\Debug\notepad_programi.Form1.resources
+c:\users\lab-2\documents\visual studio 2010\Projects\notepad_programi\notepad_programi\obj\x86\Debug\notepad_programi.Properties.Resources.resources
+c:\users\lab-2\documents\visual studio 2010\Projects\notepad_programi\notepad_programi\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\lab-2\documents\visual studio 2010\Projects\notepad_programi\notepad_programi\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\lab-2\documents\visual studio 2010\Projects\notepad_programi\notepad_programi\obj\x86\Debug\notepad_programi.exe
+c:\users\lab-2\documents\visual studio 2010\Projects\notepad_programi\notepad_programi\obj\x86\Debug\notepad_programi.pdb
+D:\notepad_programi\notepad_programi\obj\x86\Debug\notepad_programi.exe
+D:\notepad_programi\notepad_programi\obj\x86\Debug\notepad_programi.pdb
+D:\notepad_programi\notepad_programi\bin\Debug\notepad_programi.exe
+D:\notepad_programi\notepad_programi\bin\Debug\notepad_programi.pdb
+D:\notepad_programi\notepad_programi\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\notepad_programi\notepad_programi\obj\x86\Debug\notepad_programi.Form1.resources
+D:\notepad_programi\notepad_programi\obj\x86\Debug\notepad_programi.Properties.Resources.resources
+D:\notepad_programi\notepad_programi\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\notepad_programi\notepad_programi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\kenan\Desktop\notepad_programi\notepad_programi\notepad_programi\obj\x86\Debug\notepad_programi.exe
+C:\Users\kenan\Desktop\notepad_programi\notepad_programi\notepad_programi\obj\x86\Debug\notepad_programi.pdb
+C:\Users\kenan\Desktop\notepad_programi\notepad_programi\notepad_programi\bin\Debug\notepad_programi.exe
+C:\Users\kenan\Desktop\notepad_programi\notepad_programi\notepad_programi\bin\Debug\notepad_programi.pdb
+C:\Users\kenan\Desktop\notepad_programi\notepad_programi\notepad_programi\obj\x86\Debug\notepad_programi.Form1.resources
+C:\Users\kenan\Desktop\notepad_programi\notepad_programi\notepad_programi\obj\x86\Debug\notepad_programi.Properties.Resources.resources
+C:\Users\kenan\Desktop\notepad_programi\notepad_programi\notepad_programi\obj\x86\Debug\notepad_programi.csproj.GenerateResource.Cache
+C:\Users\kenan\Desktop\github\görsel\notepad_programi\notepad_programi\notepad_programi\obj\x86\Debug\notepad_programi.csprojAssemblyReference.cache
+C:\Users\kenan\Desktop\github\görsel\notepad_programi\notepad_programi\notepad_programi\obj\x86\Debug\notepad_programi.exe
+C:\Users\kenan\Desktop\github\görsel\notepad_programi\notepad_programi\notepad_programi\obj\x86\Debug\notepad_programi.pdb
