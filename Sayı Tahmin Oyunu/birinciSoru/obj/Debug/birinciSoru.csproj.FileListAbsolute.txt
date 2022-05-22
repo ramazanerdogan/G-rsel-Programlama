@@ -1,0 +1,9 @@
+C:\Users\ENIS\source\repos\birinciSoru\birinciSoru\bin\Debug\birinciSoru.exe.config
+C:\Users\ENIS\source\repos\birinciSoru\birinciSoru\bin\Debug\birinciSoru.exe
+C:\Users\ENIS\source\repos\birinciSoru\birinciSoru\bin\Debug\birinciSoru.pdb
+C:\Users\ENIS\source\repos\birinciSoru\birinciSoru\obj\Debug\birinciSoru.csprojAssemblyReference.cache
+C:\Users\ENIS\source\repos\birinciSoru\birinciSoru\obj\Debug\birinciSoru.Form1.resources
+C:\Users\ENIS\source\repos\birinciSoru\birinciSoru\obj\Debug\birinciSoru.Properties.Resources.resources
+C:\Users\ENIS\source\repos\birinciSoru\birinciSoru\obj\Debug\birinciSoru.csproj.GenerateResource.cache
+C:\Users\ENIS\source\repos\birinciSoru\birinciSoru\obj\Debug\birinciSoru.exe
+C:\Users\ENIS\source\repos\birinciSoru\birinciSoru\obj\Debug\birinciSoru.pdb
